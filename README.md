@@ -1,2 +1,2 @@
-# travel-agency-practice-site
+# practice websites
 it is only for practice
